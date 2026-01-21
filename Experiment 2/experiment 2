@@ -1,0 +1,23 @@
+CREATE TABLE employee (
+    emp_id INTEGER,
+    emp_name VARCHAR(100),
+    department VARCHAR(100),
+    salary INTEGER,
+    joining_date DATE
+);
+
+INSERT INTO employee VALUES (201, 'Aditya', 'Admin', 27000, '2019-04-12');
+INSERT INTO employee VALUES (202, 'Sumit', 'Admin', 38000, '2018-08-25');
+INSERT INTO employee VALUES (203, 'Shainky', 'Development', 45000, '2017-06-10');
+INSERT INTO employee VALUES (204, 'Ansh', 'Development', 18000, '2021-01-05');
+INSERT INTO employee VALUES (205, 'Gurshaan', 'Accounts', 52000, '2016-10-19');
+INSERT INTO employee VALUES (206, 'Atul', 'Accounts', 30000, '2020-03-14');
+INSERT INTO employee VALUES (207, 'Harry', 'Marketing', 24000, '2019-11-02');
+INSERT INTO employee VALUES (208, 'Lakshay', 'Marketing', 34000, '2018-05-28');
+
+SELECT department, AVG(salary) AS average_salary
+FROM employee
+WHERE salary > 20000
+GROUP BY department
+HAVING AVG(salary) > 30000
+ORDER BY average_salary DESC;
