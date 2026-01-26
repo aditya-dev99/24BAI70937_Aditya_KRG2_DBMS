@@ -46,16 +46,16 @@ The aim of this experiment is to practice writing SQL SELECT statements to filte
 - Screenshots of query execution (s1 to s4) are attached in order.
 
 ### Step 1 Output
-![Step 1: Average salary by department](Exp-2_Screenshots/S1.png)
+![Step 1: Average salary by department](screenshots2/S1.png)
 
 ### Step 2 Output
-![Step 2: Salary > 20000](Exp-2_Screenshots/S2.png)
+![Step 2: Salary > 20000](screenshots2/S2.png)
 
 ### Step 3 Output
-![Step 3: Departments with AVG(salary) > 30000](Exp-2_Screenshots/S3.png)
+![Step 3: Departments with AVG(salary) > 30000](screenshots2/S3.png)
 
 ### Step 4 Output
-![Step 4: Final output in descending order](Exp-2_Screenshots/S4.png)
+![Step 4: Final output in descending order](screenshots2/S4.png)
 
 ## Learning Outcome
 After completing this experiment, the student will be able to:  
