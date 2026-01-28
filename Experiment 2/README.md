@@ -47,7 +47,7 @@ The aim of this experiment is to practice writing SQL SELECT statements to filte
 
 ### Step 1 Output
 ![Step 1: Average salary by department](screenshots2/S1.png)
-![Step 1: Average salary by department](screenshots2/S5.png)
+![Step 1: Average salary by department](screenshots2/S5.jpeg)
 
 ### Step 2 Output
 ![Step 2: Salary > 20000](screenshots2/S2.png)
