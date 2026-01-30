@@ -46,8 +46,9 @@ DBMS_OUTPUT.PUT_LINE is used to display output.
 
 ---
 
-###output
-![output -](experiment-3/screenshot/S1.png)
+## Output : 
+![Output](screenshot/S1.png)
+
 
 ## Course Outcome
 This experiment provides hands-on understanding of the basic structure and execution flow of Oracle PL/SQL programs. Students develop proficiency in declaring and initializing variables, implementing procedural logic within PL/SQL blocks, and displaying output using built-in procedures, which are essential skills for database programming, backend development, enterprise applications, and technical interviews.
