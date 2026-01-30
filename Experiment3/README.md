@@ -14,11 +14,11 @@ To understand the basic structure of a PL/SQL program by creating and executing 
 ---
 
 ## Objectives
--To understand the basic structure of an Oracle PL/SQL block
--To learn variable declaration and initialization in PL/SQL
--To implement procedural logic using the BEGIN–END execution block
--To display output using built-in procedures such as DBMS_OUTPUT.PUT_LINE
--To strengthen foundational PL/SQL skills required for database programming, backend development, and technical interviews 
+- To understand the basic structure of an Oracle PL/SQL block
+- To learn variable declaration and initialization in PL/SQL
+- To implement procedural logic using the BEGIN–END execution block
+- To display output using built-in procedures such as DBMS_OUTPUT.PUT_LINE
+- To strengthen foundational PL/SQL skills required for database programming, backend development, and technical interviews 
 
 ---
 
