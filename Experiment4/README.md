@@ -142,16 +142,16 @@ END;
 
 ## Output : 
 ## IF–ELSE Statement
-![Output](Screenshots-4/A1.png)
+![Output](Screenshots/A1.png)
 
 ## IF–ELSIF–ELSE Statement
-![Output](Screenshots-4/A2.png)
+![Output](Screenshots/A2.png)
 
 ## ELSIF Ladder
-![Output](Screenshots-4/A3.png)
+![Output](Screenshots/A3.png)
 
 ## CASE Statement
-![Output](Screenshots-4/A4.png)
+![Output](Screenshots/A4.png)
 
 ---
 
