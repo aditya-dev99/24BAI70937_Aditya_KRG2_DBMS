@@ -110,16 +110,16 @@ FROM employee;
 
 ## Output : 
 ## Display All Employee Records
-![Output](Screenshots/S1.png)
+![Output](Screenshot/S1.png)
 
 ## Employees with Even Salary
-![Output](Screenshots/S2.png)
+![Output](Screenshot/S2.png)
 
 ## Employees with Odd Salary
-![Output](Screenshots/S3.png)
+![Output](Screenshot/S3.png)
 
 ## Salary Classification (Odd / Even)
-![Output](Screenshots/S4.png)
+![Output](Screenshot/S4.png)
 
 ---
 
