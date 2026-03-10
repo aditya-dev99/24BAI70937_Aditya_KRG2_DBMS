@@ -75,25 +75,25 @@ In large-scale enterprise systems, frequent execution of complex queries can sig
 
 ## Step-wise Output
 **Step 1 – Create Base Tables**  
-![Step 1: Create Table](Screenshot/screenshot_1.png)
+![Step 1: Create Table](Screenshots/screenshot_1.png)
 
 **Step 2 – Insert Sample Data**  
-![step 2: Insert Data](Screenshot/screenshot_2.png)
+![step 2: Insert Data](Screenshots/screenshot_2.png)
 
 **Step 3 – Create Simple View**  
-![step 3: Simple View](Screenshot/screenshot_3.png)
+![step 3: Simple View](Screenshots/screenshot_3.png)
 
 **Step 4 – Create Complex View**  
-![step 4: Complex View](Screenshot/screenshot_4.png) 
+![step 4: Complex View](Screenshots/screenshot_4.png) 
 
 **Step 5 – Create Materialized View**  
-![step 5: Materialized View](Screenshot/screenshot_5.png) 
+![step 5: Materialized View](Screenshots/screenshot_5.png) 
 
 **Step 6 – Execute Queries on Views**  
-![step 6: Execute Queries](Screenshot/screenshot_6.png)
+![step 6: Execute Queries](Screenshost/screenshot_6.png)
 
 **Step 7 – Compare Performance**  
-![step 7: Performance Comparison](Screenshot/screenshot_7.png)
+![step 7: Performance Comparison](Screenshots/screenshot_7.png)
 
 ---
 
