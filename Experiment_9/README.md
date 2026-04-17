@@ -130,4 +130,4 @@ After completing this experiment, the learner is able to:
 - Develop modular and reusable database programs
 
 ## Screenshots
-<img width="1492" height="886" alt="S1" src="S1.png" /> ```
+Screenshots/S1.png
